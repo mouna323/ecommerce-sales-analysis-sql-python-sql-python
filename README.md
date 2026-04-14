@@ -42,11 +42,13 @@ The goal is to understand sales performance, customer behavior, and profitabilit
 - SQL (SQLite)
 - Jupyter Notebook
 
-## How to Run
-```bash
-pip install -r requirements.txt
-Open the notebook and run all cells
-
 ## Author
 Mouna Al-Nasser
 Data Analyst | BI Analyst
+
+## How to Run
+Open the notebook and run all cells
+
+```bash
+pip install -r requirements.txt
+
